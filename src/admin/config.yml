@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: owner-name/repo-name
+  repo: owner-name/repo-name # Path to your GitHub repository
+  open_authoring: true
 media_folder: "public/assetes/blog"
 public_folder: "/assets/blog"
 collections:
